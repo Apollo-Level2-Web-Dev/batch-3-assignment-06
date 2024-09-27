@@ -149,7 +149,7 @@ _Although the subscription is mentioned as monthly, to avoid complexity, the use
 
 *   **Login/Registration Page:** Secure forms for user sign-up and login.
 *   **User Dashboard:** A personalized dashboard where they manage their profile information, view analytics\[see bonus\], My Posts, following activity and make payments.
-    *       *   **My Posts:** You can view and manage(CRUD) posts with filtering, searching, pagination, and sorting
+    *   **My Posts:** You can view and manage(CRUD) posts with filtering, searching, pagination, and sorting
 *   **Admin Dashboard:** A control panel for administrators to manage users, content, and payment history. Graphs will show data on monthly payments, posts, and user activity.
     *   **Admin Controls**: Admins can block/unblock users, delete accounts, and manage posts and can create, update, delete, and manage admin accounts.
 *   **Profile Page:** Users can view and edit profiles, posts, followers, and those they follow.
