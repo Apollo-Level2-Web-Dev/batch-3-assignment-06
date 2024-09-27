@@ -105,13 +105,12 @@ By following these instructions, you'll ensure your project is built with the ri
 - **Project Overview Video**: Create a video walkthrough highlighting the features and optimizations.
 - **Admin Credentials**: Include admin login credentials if required for the demo.
 
-### ⏰ **Deadline:**
+### ⏰ **Submission Deadline:**
 
 - 60 Marks: October 03, 2024, 11.59 PM ⏳
 - 50 Marks: October 05, 2024, 11.59 PM ⌛
 - 30 Marks: October 06 - October 08, 11:59PM ⌛
 
-- **Submission Deadline**: 
 
 ---
 
