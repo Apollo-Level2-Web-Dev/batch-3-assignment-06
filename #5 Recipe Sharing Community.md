@@ -42,8 +42,17 @@ The primary goal is to develop a fully functional web application with an intuit
 
 *   **My Recipes**: A section displaying the user’s submitted recipes with filtering, searching, pagination, and sorting (user assess).
 *   **Recipe Sharing (Creation and Update)**: Rich Text Editor support for formatting recipes and attaching images for visual appeal.
-    *   **Ingredient Checklist**: Users can interact with the checklist to track gathered ingredients.
-    *   **Timer Functionality**: A built-in timer for tracking cooking durations. (optional)
+    *   **Ingredient Checklist (optional)**: Users can interact with the checklist to track gathered ingredients.
+         - Each ingredient in a recipe will be listed on the screen.
+         - Users can check or uncheck the ingredients they've gathered by interacting with the list (e.g., by clicking checkboxes).
+         - Once an ingredient is checked, it visually indicates that it's ready, helping users focus on the remaining ingredients.
+         - Consider allowing users to also add custom ingredients or remove ones they don’t need.
+         - You can enhance this by showing the number of remaining ingredients, or even group them based on type (e.g., spices, vegetables).
+    *   **Timer Functionality (optional)**: A built-in timer for tracking cooking durations.
+         - Users can start a timer for specific cooking durations (e.g., “Boil for 5 minutes”).
+         - The timer counts down and gives a notification (like a sound or popup) when time is up.
+         - You can let users set custom durations for each step or even multiple timers for different steps of the recipe running simultaneously.
+         - Optionally, allow the timer to pause or reset if needed.
 *   **Recipe Deletion**: Users can delete their recipes, and admins can publish/unpublish or delete user-posted recipes.
 
 #### 3.4 Rating, Commenting & Upvote/Downvote System
