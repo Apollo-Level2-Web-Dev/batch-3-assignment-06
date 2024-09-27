@@ -36,7 +36,7 @@ The primary goal is to develop a fully functional web application with an intuit
 
 *   **Profile Customization**: Users can update personal information such as name, profile picture, and bio.
 *   **Social Connectivity**: Users can follow/unfollow others, with follower/following counts displayed.
-*   **Premium Membership Subscription**: Users can purchase premium memberships through online payment (AAMARPAY/SSLCommerz/Stripe). Membership is valid for a specific period and unlocks premium content.
+*   **Premium Membership Subscription**: Users can purchase premium memberships through online payment (AAMARPAY/Stripe). Membership is valid for a specific period and unlocks premium content.
 
 #### 3.3 Recipe Management
 
