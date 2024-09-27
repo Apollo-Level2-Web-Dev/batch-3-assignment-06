@@ -21,11 +21,15 @@
 
 ### Functional Requirements
 
+_There will be two roles: User and Admin. A User will be able to perform both visitor and author activities._
+
 **User Authentication:**
 
 *   **Registration**: Users can sign up using their email, password, and other relevant details.
 *   **Secure Login/Logout**: JWT-based authentication ensures a secure login and logout process.
 *   **Password Recovery**: Users can recover forgotten passwords and securely change their passwords.
+
+**_Note:_** _Do not enforce any additional password complexity (i.e., no uppercase, lowercase, or special character requirements)._
 
 **User Profile Management:**
 
@@ -65,7 +69,7 @@
 
 #### Following System:
 
-*   **User Following**: Users can follow/unfollow other pet owners and view content from those they follow, creating a personalized feed.
+*   **User Following**: Users can follow/unfollow other pet owners and view content from those they follow.
 
 #### Micro Animations:
 
@@ -99,12 +103,6 @@
 *   **PDF Generation**: Users can generate PDFs outlining nutrition needs based on a pet’s age and weight. This feature will be accessible via a calculator-like tool in the user dashboard, primarily for common pets. The generated chart will resemble the example [here](https://rawznaturalpetfood.com/wp-content/uploads/RAWZ_daily-feeding-charts-for-dogs-2.jpg).
 *   **Debouncing Mechanism**: A debouncing feature is implemented to optimize the search experience, reducing unnecessary searches and improving performance.
 
-  
-
-### Optional Feature Idea:
-
-#### A completely new personalized feed on your pet type (example: If you have a cat then you will have a feed where just tips for cats and stories will be visible.)
-
 ### Additional Notes:
 
 *   Ensure the application is well-documented with clear instructions for setup and deployment.
@@ -113,32 +111,5 @@
 
   
 
-![](https://t9018334314.p.clickup-attachments.com/t9018334314/7655cfb0-a85a-4019-b57d-94d2fc04f12b/DALL%C2%B7E%202024-09-26%2015.47.18%20-%20A%20flowchart%20for%20a%20Pet%20Care%20Tips%20%26%20Stories%20Web%20Application.%20The%20chart%20includes%20multiple%20components_%20User%20Authentication%2C%20Content%20Creation%2C%20Payment%20Inte.webp)
 
-### Flow Diagram for User Example:
 
-*   **User** → **Creates Post** → **News Feed**
-*   **User** → **Comments on** → **Post**
-*   **User** → **Upvotes/Downvotes** → **Post**
-*   **User** → **Follows** → **Other User Profile**
-*   **User** → **Makes Payment** → **Premium Post**
-
-### Example Relational Flow with Admin:
-
-1. **Admin** ↔ **Users**:
-    *   Admin can **suspend, delete, or edit** user profiles.
-    *   Admin can view a list of users, including their posts, and followers.
-2. **Admin** ↔ **Posts**:
-    *   Admin can **publish/unpublish posts**.
-    *   Admin can **delete inappropriate posts**.
-    *   Admin can view stats, such as the number of posts per category or total upvotes.
-3. **Admin** ↔ **Comments**:
-    *   Admin can **delete or edit comments**.
-    *   Admin monitors flagged or reported comments for moderation.
-4. **Admin** ↔ **Payments**:
-    *   Admin can view payment history (subscriptions, payments for premium content).
-5. **Admin** ↔ **Analytics Dashboard**:
-    *   View **graphs** of user activity, posts, and payments.
-    *   Track growth trends for both regular and premium users.
-
-###
