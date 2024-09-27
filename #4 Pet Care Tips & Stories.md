@@ -66,6 +66,7 @@ _There will be two roles: User and Admin. A User will be able to perform both vi
 *   **Infinite Scroll**: Seamlessly load more content as users scroll down the page.
 *   **Search & Filter**: Advanced search and filtering options allow users to explore content based on keywords or categories.
 *   When searching or filtering, the content will be sorted by upvote count for the most relevant results.
+*   **Premium Content**: Premium posts are highlighted with a special badge. Users can view a preview, but the full content is accessible only after completing a payment.
 
 #### Following System:
 
