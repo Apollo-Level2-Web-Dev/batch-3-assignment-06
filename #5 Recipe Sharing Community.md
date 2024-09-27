@@ -109,7 +109,6 @@ The primary goal is to develop a fully functional web application with an intuit
 
 #### Social Media Integration:
 
-*   **Social Login**: Enable login via Google or Facebook.
 *   **Content Sharing**: Allow users to share recipes on social media platforms to expand the community.
 
 #### Additional Notes:
