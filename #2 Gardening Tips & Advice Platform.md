@@ -16,7 +16,7 @@ The platform aims to foster a vibrant community where users can post gardening a
 2. **Implement JWT-based user authentication**, ensuring secure login, registration, and profile management.
 3. **Create a responsive user interface** that works across devices—mobile, and desktop.
 4. **Develop social features**, including upvoting posts, commenting, following other users, and displaying the most popular content. \[break down the most popular content section\]
-5. **Build a rich text editor** to allow users to create, edit, and share gardening tips and guides, supporting multimedia content (images, videos, etc.). \[add example\]
+5. **Build a rich text editor** to allow users to create, edit, and share gardening tips and guides, supporting multimedia content (images, videos, etc.).
 6. **Payment Integration**: Integrate payment gateways like **AAMARPAY or Stripe** to access premium gardening contents.
 7. **Advanced Search and Filter:** Implement search and filtering features that allow users to find relevant gardening content based on category, popularity, and other parameters.
 8. **Develop an admin dashboard** for managing users, posts, payments, and community moderation.
