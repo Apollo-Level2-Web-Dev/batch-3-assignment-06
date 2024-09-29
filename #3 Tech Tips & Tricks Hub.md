@@ -178,13 +178,6 @@ My Posts: You can view and manage(CRUD) posts with filtering, searching, paginat
 #### **Social Media Integration:**
 
 *   **Sharing Options**: Users can share posts on social media platforms.
-
-  
-
-#### **Multilingual Support:**
-
-*   **Language Options**: Translate the site based on selected language.
-
   
 
 #### **Security Features:**
