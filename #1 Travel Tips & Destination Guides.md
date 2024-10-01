@@ -35,7 +35,7 @@ _There will be two roles: User and Admin. A User will be able to perform both vi
 
 *   Users can update their profile information, including uploading a profile picture.
 *   A "My Profile" section that shows the user’s posts, followers, and following, with an interface similar to Facebook or X (formerly Twitter). Additionally display the follower/following counts.
-*   Profile verification feature where users can pay through online payment (AAMARPAY/Stripe) for verification after receiving at least 5 upvotes on their posts. Verified profiles will display a badge next to the user’s name. Verified users will be able to unlock premium contents.
+*   Profile verification feature where users can pay through online payment (AAMARPAY/Stripe) for verification after receiving at least 1 upvotes on their posts. Verified profiles will display a badge next to the user’s name. Verified users will be able to unlock premium contents.
 *   Users can follow/unfollow others.
 
 #### 3\. **Post Creation & Sharing**:
