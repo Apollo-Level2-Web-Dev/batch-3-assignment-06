@@ -41,7 +41,7 @@ The platform aims to foster a vibrant community where users can post gardening a
 *   My Profile section displaying my posts and followers/following.
 *   Consider designing it similar to the profile page on Facebook or in the style of X (Twitter).
 *   Users can follow/unfollow others.
-*   Users can verify their profile once their post has received at least 5 upvotes. Profile verification requires users to pay a certain amount using **AAMARPAY or Stripe**. Verified users will be able to unlock premium contents.
+*   Users can verify their profile once their post has received at least 1 upvotes. Profile verification requires users to pay a certain amount using **AAMARPAY or Stripe**. Verified users will be able to unlock premium contents.
 *   Verified users will receive a badge that will be displayed alongside their profile image.
 
 #### Posts Creation & Sharing:
