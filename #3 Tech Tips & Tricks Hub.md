@@ -169,7 +169,7 @@ My Posts: You can view and manage(CRUD) posts with filtering, searching, paginat
 
 #### **Analytics & Reporting:**
 
-*   **Content Analytics**: Track views, upvotes, and engagement for the overall posts
+*   **Content Analytics**: Show share counts, reaction counts, comment counts and views counts on the User Dashboard for the overall posts. Design will be something similar to the picture given below.
 
   
 
