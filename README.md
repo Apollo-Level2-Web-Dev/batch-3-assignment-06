@@ -108,8 +108,11 @@ By following these instructions, you'll ensure your project is built with the ri
 ### ⏰ **Submission Deadline:**
 
 - 60 Marks: October 03, 2024, 11.59 PM ⏳
-- 50 Marks: October 05, 2024, 11.59 PM ⌛
-- 30 Marks: October 06 - October 08, 11:59PM ⌛
+- 50 Marks: October 08, 2024, 11.59 PM ⌛
+- 30 Marks: October 09 - October 10, 11:59PM ⌛
+
+### ⏰ **Considereble Deadline:**
+- October 13, 2024, 11.59 PM ⏳
 
 
 ---
