@@ -1,10 +1,6 @@
 ﻿![Assignment-6](./assets/banner.png)
 
 
-## **⚠️ Important: If you're finding the current assignment requirements too challenging or running into issues, you have the option to work on the [alternative assignment](https://github.com/Apollo-Level2-Web-Dev/mern-last-game-batch-4-assignment-6). Those who haven't started the current assignment yet can feel free to switch to this one. 🎯**
-
-
-
 # Assignment 6: Full-Stack Application 🎯
 
 Welcome to **Assignment 6**! 🎉 This is your final challenge in the series, focusing on refining your full-stack web application. In this assignment, you will optimize the performance, enhance security, and apply advanced techniques to ensure your project is production-ready.
@@ -102,6 +98,8 @@ By following these instructions, you'll ensure your project is built with the ri
 | 8, 9                        | [#5 Recipe Sharing Community](./#5%20Recipe%20Sharing%20Community.md)                     |
 
 ---
+
+### **⚠️ Important: If you're finding the current assignment requirements too challenging or running into issues, you have the option to work on the [alternative assignment](https://github.com/Apollo-Level2-Web-Dev/mern-last-game-batch-4-assignment-6). Those who haven't started the current assignment yet can feel free to switch to this one. 🎯**
 
 ## 📤 Submission Guidelines
 
