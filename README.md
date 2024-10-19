@@ -96,6 +96,7 @@ By following these instructions, you'll ensure your project is built with the ri
 | 4, 5                        | [#3 Tech Tips & Tricks Hub](./#3%20Tech%20Tips%20&%20Tricks%20Hub.md)                     |
 | 6, 7                        | [#4 Pet Care Tips & Stories](./#4%20Pet%20Care%20Tips%20&%20Stories.md)                   |
 | 8, 9                        | [#5 Recipe Sharing Community](./#5%20Recipe%20Sharing%20Community.md)                     |
+| Assignment-6 NEW            | [Assignment-6 NEW](https://github.com/Apollo-Level2-Web-Dev/mern-last-game-batch-4-assignment-6)|
 
 ---
 
